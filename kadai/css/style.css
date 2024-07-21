@@ -55,19 +55,19 @@
 }
 
 .blue-box {
-    width: 960px;
+    max-width: 960px;
     display: flex;
     justify-content: space-between;
 }
 
 .blue {
     height: 300px;
-    width: 300px;
+    width: 30%;
     background-color: blue;
 }
 
 .red-box {
-    width: 960px;
+    max-width: 960px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
